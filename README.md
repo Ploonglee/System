@@ -20,8 +20,12 @@ ORM框架：Mybatis
 具体实现效果如下：
 
 数据库E-R图
+
+
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/ER.png)
 登录页面：
+
+
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/1.png)
 管理员功能：
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/admin.png)
