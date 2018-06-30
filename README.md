@@ -2,21 +2,33 @@
 基于ssm框架的学生信息管理系统
 # System
 基于ssm框架的学生信息管理系统
+
 声明：此系统是原github一个作者写的，我在此基础上完善了一些功能（尤其是密码的加密）
+
 这是个基于SSM+Bootstrap的学生信息管理系统，是一个简单的教务管理系统.
 
 做了关于数据库的增删改查实现。
+
 用来熟悉SSM的整合开发。
+
 使用技术 
+
 IOC容器：Spring Web框架：SpringMVC 
+
 ORM框架：Mybatis 
+
 数据源：C3P0 
+
 日志：log4j 
+
 前端框架：Bootstrap 
+
 运行环境 jdk8+tomcat9+mysql+Eclipse+maven
+
 项目技术： spring+spring mvc+mybatis+bootstrap+jquery
 
 欢迎下载。
+
 具体实现效果如下：
 
 数据库E-R图
