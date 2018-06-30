@@ -43,7 +43,7 @@ ORM框架：Mybatis
 
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/管理员密码重置.png)
 
-教师界面：
+教师界面功能：
 
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/teacher.png)
 
@@ -59,7 +59,7 @@ ORM框架：Mybatis
 
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/具体打分.png)
 
-学生界面：
+学生界面功能：
 
 ![Alt text](https://github.com/HelloWorldLPL/ima-folder/blob/23b77e990cfc630f9d26b581706b8ebb94dd043f/student.png)
 
